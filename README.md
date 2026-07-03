@@ -61,7 +61,7 @@ This repo spins up [Pi-hole](https://pi-hole.net/) as a Docker container using D
 **1. Clone the repo**
 
 ```bash
-git clone https://github.com/<your-username>/pihole-docker.git
+git clone https://github.com/nicho7684/pihole-docker.git
 cd pihole-docker
 ```
 
