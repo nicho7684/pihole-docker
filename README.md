@@ -1,4 +1,4 @@
-<div align="center"> <img src="assets/pi-hole.png" width="300" height="600"></div>
+<div align="center"> <img src="assets/pi-hole.png" width="100" height="200"></div>
 
 # Pi-hole Docker Deployment
 
