@@ -75,6 +75,7 @@ cp .env.example .env
 
 **4. Launch the stack**
 
+**note**-before lunching the stack make sure docker is installed 
 ```bash
 docker compose up -d
 ```
