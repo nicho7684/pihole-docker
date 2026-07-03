@@ -1,3 +1,4 @@
+<div align="center"> <img src="assets/pi-hole"></div>
 # Pi-hole Docker Deployment
 
 <div align="center">
